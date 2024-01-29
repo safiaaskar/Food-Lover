@@ -1,2 +1,2 @@
 # Food-Lover
-https://safiaaskar.github.io/Food-Lover/
+https://restaurant-food-lover.netlify.app/
